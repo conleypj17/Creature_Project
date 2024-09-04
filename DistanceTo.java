@@ -1,6 +1,6 @@
 
 /*
- * Student.java
+ * DistanceTo.java
  * Patrick Conley, conleyp1
  * 
  * This is the DistanceTo object class
