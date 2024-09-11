@@ -2,7 +2,6 @@ import java.util.*;
 /*
  * Name: Patrick Conley, Andrew Golias
  * User Name: conleyp1, goliasa1
- * Assignment: CPS 150 Programming Assignment 3: Fantasy Role-Playing Game
  * 
  * Description:
  * 	This program will demonstrate a game where players choose a creature and have a certain amount of strength and hit points.
