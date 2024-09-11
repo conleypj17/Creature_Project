@@ -10,8 +10,6 @@ import java.io.IOException;	//importing IOException
 /*
  * Patrick Conley, conleyp1
  * 
- * CPS 151 Programming Assignment 6: Sorting Records Using the Java Libraries
- * 
  * Description: This program will sort a large number of student records in a text file by student ID
  * 	This will use an ArrayList of Student objects in order to store the data
  * 	Then the program will print the sorted data to a new text file
